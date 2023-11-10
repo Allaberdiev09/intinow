@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "786136369581",
+    "project_id": "intinow",
+    "storage_bucket": "intinow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786136369581:android:0a66e7a08280c3835b3924",
+        "android_client_info": {
+          "package_name": "com.example.intinow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0gZ0e6w28D9U85NuKLe4vG-TtB0rk6Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786136369581:android:6c31fd24906293fb5b3924",
+        "android_client_info": {
+          "package_name": "com.example.intinowadminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0gZ0e6w28D9U85NuKLe4vG-TtB0rk6Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
